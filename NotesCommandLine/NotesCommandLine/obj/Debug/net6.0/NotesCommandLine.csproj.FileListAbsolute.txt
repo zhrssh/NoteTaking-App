@@ -1,0 +1,15 @@
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\bin\Debug\net6.0\NotesCommandLine.exe
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\bin\Debug\net6.0\NotesCommandLine.deps.json
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\bin\Debug\net6.0\NotesCommandLine.runtimeconfig.json
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\bin\Debug\net6.0\NotesCommandLine.dll
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\bin\Debug\net6.0\NotesCommandLine.pdb
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.csproj.AssemblyReference.cache
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.AssemblyInfoInputs.cache
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.AssemblyInfo.cs
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.dll
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\refint\NotesCommandLine.dll
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.pdb
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\NotesCommandLine.genruntimeconfig.cache
+D:\Programming\Projects\NoteTaking App\NotesCommandLine\NotesCommandLine\obj\Debug\net6.0\ref\NotesCommandLine.dll
